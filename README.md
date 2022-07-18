@@ -14,18 +14,6 @@ Fullstack devoloper
 ***
 
 ![Codewars](https://www.codewars.com/users/anst-foto/badges/small)
-
-Аккаунты организаций:
-
-- [@IT-za-Edu](https://github.com/IT-za-Edu)
-- [@DeveloperCase](https://github.com/DeveloperCase)
-- [@it-top-vrn](https://github.com/it-top-vrn)
-- [@it-top-shambala](https://github.com/it-top-shambala)
-- [@it-top-irkutsk](https://github.com/it-top-irkutsk)
-- [@it-top-lipetsk](https://github.com/it-top-lipetsk)
-- [@vsuet](https://github.com/vsuet)
-- [@college-VIVT](https://github.com/college-VIVT)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anst-foto&show_icons=true)
+ 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=anst-foto)
