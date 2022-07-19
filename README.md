@@ -1,10 +1,4 @@
-# Hi!  I'm Farid 👨‍💻!
-
-Fullstack devoloper
-
-
-
-  
+# Hi!  I'm Farid 👨‍💻! 
  
 
 ## Educations
