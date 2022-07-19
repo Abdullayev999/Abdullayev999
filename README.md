@@ -7,14 +7,20 @@ Fullstack devoloper
   
  
 
-## Связь 
+## Education 
  
 📖 Higher education
 
 📆 2014 - 2018
 
-📍 The Academy of Public Administration Under the President of the Republic of Azerbaijan 
+📍 The Academy of Public Administration Under the President of the Republic of Azerbaijan  
+*** 
  
+📖 Course
+
+📆 2019 - 2021
+
+📍 STEP IT (Software development) 
 ***
 
 
