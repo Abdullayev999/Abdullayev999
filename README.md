@@ -4,7 +4,18 @@ Fullstack devoloper
 
 
 
+  
  
+
+## Связь 
+ 
+📖 Higher education
+📆 2014 - 2018
+📍 The Academy of Public Administration Under the President of the Republic of Azerbaijan 
+ 
+***
+
+
 
 ## Мои навыки 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
