@@ -38,9 +38,9 @@ Fullstack devoloper
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 
 
-(https://img.shields.io/badge/1-ADO.NET-blue)
-(https://img.shields.io/badge/2-Dapper-blue)
-(https://img.shields.io/badge/3-Entity%20Framework-blue)
+![Hibernate](https://img.shields.io/badge/1-ADO.NET-blue)
+![Hibernate](https://img.shields.io/badge/2-Dapper-blue)
+![Hibernate](https://img.shields.io/badge/3-Entity%20Framework-blue)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
