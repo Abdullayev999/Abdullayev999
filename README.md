@@ -1,4 +1,4 @@
-# Hi! My name is Abdullayev Farid!
+# Hi!  I'm Farid 👨‍💻!
 
 Fullstack devoloper
 
