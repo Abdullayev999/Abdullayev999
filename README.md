@@ -9,8 +9,10 @@ Fullstack devoloper
 
 ## Связь 
  
-📖 Higher education\n
+📖 Higher education
+
 📆 2014 - 2018
+
 📍 The Academy of Public Administration Under the President of the Republic of Azerbaijan 
  
 ***
