@@ -10,7 +10,7 @@
 📍 The Academy of Public Administration Under the President of the Republic of Azerbaijan  
 *** 
  
-📖 Course
+📖 International educational institution
 
 📆 2019 - 2021
 
