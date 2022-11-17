@@ -15,6 +15,13 @@
 📆 2019 - 2021
 
 📍 STEP IT (Software development) 
+*** 
+ 
+📖 International educational institution
+
+📆 2020 - 2022
+
+📍 TOP Academy MOSCOW (Software development) 
 ***
 
 
