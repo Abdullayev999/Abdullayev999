@@ -1,6 +1,25 @@
 # Hi!  I'm Farid 👨‍💻! 
  
 
+## Work
+ 
+🏢 State Agency for Public Service and Social Innovations under the President of Azerbaijan
+
+📆 2020 - ∞
+
+Software Developer
+ 
+*** 
+ 
+🏢 Director of Algoritmic Innovate Academy (AIA)
+
+📆 2023 - ∞
+
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aiaitacademy/)
+
+*** 
+ 
+
 ## Educations
  
 📖 Higher education
