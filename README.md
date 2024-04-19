@@ -1,7 +1,7 @@
 # Hi!  I'm Farid 👨‍💻! 
  
 
-## Work
+## Works
  
 🏢 State Agency for Public Service and Social Innovations under the President of Azerbaijan
 
