@@ -15,7 +15,7 @@ Software Developer
 
 📆 2023 - ∞
 
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aiaitacademy/)
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/algorithmic_academy)
 
 *** 
  
