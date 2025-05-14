@@ -90,7 +90,7 @@ Software Developer
 ---
 
 <div align="center">
- <img src="https://Muhammad-Ramazanovich.github.io/Muhammad-Ramazanovich/github-contribution-grid-snake.svg" />
+ <img src="https://Abdullayev999.github.io/Abdullayev999/github-contribution-grid-snake.svg" />
 </div>
 
 <p align="center">
