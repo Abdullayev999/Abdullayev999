@@ -97,26 +97,7 @@ Software Developer
 Available as github action. It can automatically generate a new image each day. Which makes for great [github profile readme](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)
 
 
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdullayev999&theme=github_dark" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullayev999&show_icons=true&theme=vue-dark&hide_border=false&bg_color=0d1117&title_color=00bcd4&text_color=ffffff" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullayev999&layout=compact&theme=vue-dark&hide_border=false&bg_color=0d1117&title_color=00bcd4&text_color=ffffff" height="160" />
-</div>
-
----
-
-<div align="center">
- <img src="https://Abdullayev999.github.io/Abdullayev999/github-contribution-grid-snake.svg" />
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c3ff,100:ffff1c&height=120&section=footer"/>
-</p>
-
-
-  
+ 
 ***
 
 
